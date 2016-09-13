@@ -1,5 +1,49 @@
-<?php
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-$database = new SQLite3(:memory:)
+<head>
+	<title>dviera01phphomepage</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 1.28" />
+	<style>
+	.title {
+  box-sizing: content-box;
+  border: none;
+  border-radius: 100px;
+  font: normal 50px/1 "Courier New", monospace;
+  color: #f1f1f1f1;
+  text-align: center;
+  text-overflow: ellipsis;
+  letter-spacing: 0px;
+  white-space: pre-line;
+  background: #6699cc;
+}
 
+.textbox {
+    background: #e9e9e9
+    padding: 25px;
+    margin: 0px;
+}
+
+h1 {
+color: #ffffff;
+}
+
+body {
+		background-color: #f1f1f1;
+}
+	</style>
+</head>
+
+<body>
+	<?php
+print "<h1 class='title'>DVIERA01 Homepage</h1>"
 ?>
+	<?php
+print "<div class='textbox'><h2>week two</h2>
+<p><a href='basic.php'>Hello World</a></p></div>"
+?>
+</body>
+
+</html>
