@@ -41,8 +41,19 @@ body {
 print "<h1 class='title'>DVIERA01 Homepage</h1>"
 ?>
 	<?php
-print "<div class='textbox'><h2>week two</h2>
-<p><a href='basic.php'>Hello World</a></p></div>"
+print "<div class='textbox'>
+<ul style='list-style-type:none'>
+<h2>week two</h2>
+
+<li><a href='./projects/basic.php'>Hello World</a></li>
+</ul>
+<ul style='list-style-type:none'>
+<h2>week three</h2>
+
+<li><a href='./projects/randomvariables.php'> Variables</a></li>
+<li><a href='./projects/form.php'>Form </a></li>
+</ul>
+</div>"
 ?>
 </body>
 
