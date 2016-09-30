@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>Hi User</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
