@@ -53,6 +53,9 @@ print "<div class='textbox'>
 <li><a href='./projects/randomvariables.php'> Variables</a></li>
 <li><a href='./projects/form.php'>Form </a></li>
 </ul>
+<ul style='list-style-type:none'>
+<h2>week four</h2>
+<li><a href='./projects/stringshw.php'>Strings</a></li>
 </div>"
 ?>
 </body>
