@@ -56,6 +56,8 @@ print "<div class='textbox'>
 <ul style='list-style-type:none'>
 <h2>week four</h2>
 <li><a href='./projects/stringshw.php'>Strings</a></li>
+<h2>week five</h2>
+<li><a href='./projects/customerformwk5.php'>Conditionals</a></li>
 </div>"
 ?>
 </body>
