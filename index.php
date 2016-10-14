@@ -58,6 +58,8 @@ print "<div class='textbox'>
 <li><a href='./projects/stringshw.php'>Strings</a></li>
 <h2>week five</h2>
 <li><a href='./projects/customerformwk5.php'>Conditionals</a></li>
+<h2>week six</h2>
+<li><a href='./projects/arrayloop.php'>Arrays&Loops</a></li>
 </div>"
 ?>
 </body>
