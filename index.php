@@ -37,11 +37,11 @@ body {
 </head>
 
 <body>
-	<?php
-print "<h1 class='title'>DVIERA01 Homepage</h1>"
-?>
-	<?php
-print "<div class='textbox'>
+
+<h1 class='title'>DVIERA01 Homepage</h1>
+
+
+<div class='textbox'>
 <ul style='list-style-type:none'>
 <h2>week two</h2>
 
@@ -60,8 +60,8 @@ print "<div class='textbox'>
 <li><a href='./projects/customerformwk5.php'>Conditionals</a></li>
 <h2>week six</h2>
 <li><a href='./projects/arrayloop.php'>Arrays&Loops</a></li>
-</div>"
-?>
+</div>
+
 </body>
 
 </html>
